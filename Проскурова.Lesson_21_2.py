@@ -9,18 +9,21 @@ class Detection:
 
     def func1(self):
         if not self.str_n.isdigit():
+            gl_l, sl_l = [], []
             gl, sl = 0, 0
             for i in self.str_n:
                 if i in 'AEIOUaeiouАЕЁИОУЫЭЮЯаеёиоуыэюя':
                     gl += 1
+                    gl_l.append(i)
                 elif i in ''' .,:;"?'!-()/''':
                     continue
                 else:
                     sl += 1
+                    sl_l.append(i)
             if gl*sl <= self.func2():
-                print('Количество гласных: ', gl)
+                print('Гласные: ', gl_l)
             else:
-                print('Количество согласных: ', sl)
+                print('Согласные: ', sl_l)
         elif self.str_n.isdigit():
             chet = 0
             for i in self.str_n:
