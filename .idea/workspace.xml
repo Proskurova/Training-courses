@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ea44ee1-bc91-4686-b059-cc8554f08a2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Probl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Проскурова_Exam_166/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Проскурова_Exam_166/Task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Проскурова_Exam_166/Task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Проскурова_Exam_166/Task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Проскурова_Exam_166/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Проскурова_Exam_166/Проскурова.166.Exam_2.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +36,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Пользователь/PycharmProjects/pythonProject/Arhiv_my.py",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "C:/Users/Пользователь/PycharmProjects/pythonProject/Проскурова.Lesson_22.Task_1.py",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Arhiv_my">
+  <component name="RunManager" selected="Python.Проскурова.Lesson_22.Task_1">
     <configuration name="Проскурова " type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Arhiv_my" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Проскурова.Lesson_22.Task_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arhiv_my.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Проскурова.Lesson_22.Task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +180,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Arhiv_my" />
+      <item itemvalue="Python.Проскурова.Lesson_22.Task_1" />
       <item itemvalue="Python.Проскурова " />
     </list>
     <recent_temporary>
